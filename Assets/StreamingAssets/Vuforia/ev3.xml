@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="carta" size="100.000000 137.486572" />
+    <ImageTarget name="patron2" size="10.000000 9.080460" />
+    <ImageTarget name="patron" size="100.000000 90.804596" />
   </Tracking>
 </QCARConfig>
